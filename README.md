@@ -12,6 +12,6 @@ Use spark to perform edges,indegree,outdegree nodes and other properties of the 
 Start from the source node with all probability mass, implemented personalized page rank that continue iterating until some specified termination condition is reached
 
 
-# 3.Spam detection, Data learning and training, University of Waterloo 
+# 3.Spam detection
 Implementing a Spark version of the sequential SGD(stochastic gradient descent model trainer .
 Build a spam prediction models, using training data sets and  use these models to predict whether the documents in a test data set are spam by calculating the assigned “spamminess” score.
